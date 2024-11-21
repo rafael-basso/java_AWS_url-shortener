@@ -6,4 +6,4 @@ Step-by-step para testar aplicação:
  "originalUrl": "**inserir aqui a url desejada para o redirecionamento**" //exemplo: https://www.google.com/  
  }  
 3- após gerar o código, copiar e colar após a barra ("/") na seguinte URL diretamente no navegador:  
-https://mz83bvzj6c.execute-api.us-east-2.amazonaws.com/**"colar código gerado aqui"**
+https://mz83bvzj6c.execute-api.us-east-2.amazonaws.com/"**colar código gerado aqui**"
